@@ -1,0 +1,6 @@
+id,active,contactBy,email,phone
+1,true,email,test1@mail.com,+999999999999
+2,true,none,test2@mail.com,+999999999998
+3,false,phone,test3mail.com,+999999999997
+4,true,email,test4@mail.com,+999999999996
+5,true,all,test4@mail.com,+999999999996

@@ -1,0 +1,10 @@
+com/myflinkjob/commons/models/models/User.class
+com/myflinkjob/commons/models/models/User$Builder.class
+com/myflinkjob/commons/models/models/EmailMessage$Builder.class
+com/myflinkjob/commons/models/models/NotificationMessage.class
+com/myflinkjob/commons/models/models/ContactBy.class
+com/myflinkjob/commons/models/config/KafkaConfig.class
+com/myflinkjob/commons/models/config/KafkaConfig$Topics.class
+com/myflinkjob/commons/models/models/EmailMessage.class
+com/myflinkjob/commons/models/models/SmsMessage$Builder.class
+com/myflinkjob/commons/models/models/SmsMessage.class
